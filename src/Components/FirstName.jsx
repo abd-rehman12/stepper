@@ -37,7 +37,6 @@ function FirstName() {
             placeholder="Enter First Name"
           />
         </div>
-
         <div className="flex justify-end">
           {/* <Link to={"/LastName"}> */}
           <button
